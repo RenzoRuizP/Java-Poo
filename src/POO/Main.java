@@ -19,5 +19,6 @@ public class Main {
         t.ConsultarPersona();
         p1.RegistrarPersona();
         p1.ConsultarPersona();
+
     }
 }
